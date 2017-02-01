@@ -17,3 +17,7 @@ set smartcase                   " ... unless they contain at least one capital l
 
 "" Font
 set guifont=Source\ Code\ Pro\ 11
+
+"" Color scheme
+set background=dark
+colorscheme solarized
