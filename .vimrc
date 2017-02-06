@@ -21,3 +21,6 @@ set guifont=Source\ Code\ Pro\ 11
 "" Color scheme
 set background=dark
 colorscheme solarized
+
+"" Scrolling
+set mouse=a
