@@ -87,3 +87,6 @@ alias config='/usr/bin/git --git-dir=/Users/jacobpleiness/.cfg/ --work-tree=/Use
 export PATH=/usr/local/bin:$PATH
 # Virtualenv/VirtualenvWrapper
 source /usr/local/bin/virtualenvwrapper.sh
+
+export GOPATH=/Users/jacobpleiness/Code/go
+export PATH=$GOPATH/bin:$PATH
